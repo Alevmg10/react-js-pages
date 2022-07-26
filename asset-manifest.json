@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-js-pages/static/css/main.d6fa987b.css",
+    "main.js": "/react-js-pages/static/js/main.a47f369d.js",
+    "static/media/video-2.mp4": "/react-js-pages/static/media/video-2.39e6c79bffb375ae929a.mp4",
+    "static/media/video-1.mp4": "/react-js-pages/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/img-2.jpg": "/react-js-pages/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/react-js-pages/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/react-js-pages/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-1.jpg": "/react-js-pages/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-home.jpg": "/react-js-pages/static/media/img-home.c034239ee9a63564602b.jpg",
+    "static/media/img-9.jpg": "/react-js-pages/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/img-8.jpg": "/react-js-pages/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/react-js-pages/index.html",
+    "main.d6fa987b.css.map": "/react-js-pages/static/css/main.d6fa987b.css.map",
+    "main.a47f369d.js.map": "/react-js-pages/static/js/main.a47f369d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6fa987b.css",
+    "static/js/main.a47f369d.js"
+  ]
+}
