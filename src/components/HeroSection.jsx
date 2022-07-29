@@ -2,8 +2,8 @@ import React from 'react';
 import '../App.css';
 import {Button} from './Button';
 import './HeroSection.css';
-import video1 from './videos/video-1.mp4';
-import video2 from './videos/video-2.mp4';
+// import video1 from './videos/video-1.mp4';
+// import video2 from './videos/video-2.mp4';
 
 
 function HeroSection() {
